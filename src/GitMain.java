@@ -8,7 +8,7 @@ public class GitMain {
 	
 	// 회원가입
 	public void join() {
-		// 회원가입
+		// 회원가입 수정 수정
 	}
 	
 	
