@@ -5,6 +5,9 @@ public class GitMain {
 		
 		System.out.println("HelloWorld!!");
 		// 회원가입 기능 추가
+
+		// 로그인 기능 추가 완료
+
 	}
 	
 	// 회원가입
