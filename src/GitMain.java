@@ -6,7 +6,10 @@ public class GitMain {
 		System.out.println("HelloWorld!!");
 	}
 	
-	
+	// 회원가입
+	public void join() {
+		// 회원가입
+	}
 	
 	
 	
