@@ -11,6 +11,10 @@ public class GitMain {
 		// 회원가입 수정 수정
 	}
 	
+	public void login() {
+		// 로그인
+	}
+	
 	
 	
 	
